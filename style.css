@@ -1,0 +1,39 @@
+h1{
+    color: rgb(247, 5, 5);
+}
+h4{
+    color: rgb(247, 5, 5);
+    font-style: italic;
+}
+
+li{
+    color:brown;
+}
+p{
+    color: brown;
+}
+ul{
+    letter-spacing: 5px;
+    
+}
+a{
+    font-style: italic;
+}
+span{
+    background-color: gold;
+}
+.linefour{
+    text-decoration: underline;
+    font-style: italic;
+}
+b{
+    text-decoration: line-through;
+}
+.pera{
+    color: rgb(118, 60, 60);
+    
+}
+ol{
+    line-height: 40px;
+    font-weight: bolder;
+}
